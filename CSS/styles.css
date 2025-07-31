@@ -1,0 +1,27 @@
+/* * {
+  border: 2px solid black;
+} */
+
+.head1 {
+  text-align: center;
+  width: 450px;
+}
+
+.head3 {
+  text-decoration: underline;
+}
+
+a:hover {
+  font-size: 16.5px;
+}
+
+.link {
+  display: block;
+  width: fit-content;
+  margin: 8px auto;
+  text-align: center;
+}
+
+.list-i {
+  margin: 2px;
+}
